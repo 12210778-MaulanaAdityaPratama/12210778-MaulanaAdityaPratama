@@ -10,13 +10,7 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Tools:</strong></summary>
 
-<p>
-
-    <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
-
-</p>
+<img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
 
 
 
