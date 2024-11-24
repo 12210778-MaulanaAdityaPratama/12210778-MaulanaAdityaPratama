@@ -25,7 +25,7 @@ Lifelong Learner, currently working as budagh kompeni.
 
  - :mailbox: How to reach me: <a href="mailto:aditya.neo5@gmail.com">Email me!</a>  </br>
 
-   - :cloud: Pronouns: She/Her. </br>
+ - :cloud: Pronouns: Her. </br>
 
 - :game_die: Coding and Debugging are part of me. </br>
 
