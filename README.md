@@ -17,19 +17,19 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Yosh!</strong></summary>
 
-<p>
 
-    - :keyboard: I’m currently learning Data Analytics. </br>
 
-    - :speech_balloon: Ask me about anything.</br>
+  - :keyboard: I’m currently Java. </br>
 
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
+ - :speech_balloon: Ask me about anything.</br>
 
-    - :cloud: Pronouns: She/Her. </br>
+ - :mailbox: How to reach me: <a href="mailto:aditya.neo5@gmail.com">Email me!</a>  </br>
 
-    - :game_die: Drawing and writing are part of me. </br>
+   - :cloud: Pronouns: She/Her. </br>
 
-<p>
+- :game_die: Coding and Debugging are part of me. </br>
+
+
 
  
 
