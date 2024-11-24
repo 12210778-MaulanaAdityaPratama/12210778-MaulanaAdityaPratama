@@ -55,6 +55,4 @@ Lifelong Learner, currently working as budagh kompeni.
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 
 </a>
-<h1>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=12210778-MaulanaAdityaPratama&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12210778-MaulanaAdityaPratama&layout=compact)</h1>
 
