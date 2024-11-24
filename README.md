@@ -2,8 +2,8 @@
 
 ### About Me:
 - 🌱 Lifelong learner and passionate software developer.  
-- 👨‍💻 Currently working as **Budagh Kompeni** (describe your role here if you'd like!).  
-- 💻 Specializing in **Java** and exploring modern technologies.  
+- 👨‍💻 Currently working as **Budagh Kompeni** (Freelance).  
+- 💻 Specializing in **Laravel** and exploring modern technologies.  
 - 🎮 Coding and debugging are part of me.  
 - 📫 How to reach me: [Email me!](mailto:aditya.neo5@gmail.com).  
 - 🌍 Pronouns: **He/Him**.  
@@ -31,11 +31,12 @@
 ---
 
 ### **🚀 Featured Projects:**
-- [**Project Name**](https://github.com/your-repo-link): Deskripsi singkat tentang project ini (misalnya teknologi yang digunakan, manfaatnya, atau hasilnya).
-- [**Another Project**](https://github.com/your-repo-link): Deskripsi menarik lainnya.
+- [**SIPEBI**](https://github.com/12210778-MaulanaAdityaPratama/projectsi-SIPEBI-fork): Website Desa Sungai Ambangah yang saya buat untuk project akhir dengan menggunakan **Laravel** sebagai framework.
+- [**Mobile Apps Absensi Pegawai**](https://github.com/12210778-MaulanaAdityaPratama/12210778-Presensi_Pegawai_12.4B.30): Aplikasi Mobile UI/UX Berfungsi Untuk Presensi Pegawai.
+- [**E-Commerce Website**](https://github.com/12210778-MaulanaAdityaPratama/roti): Website E-Commerce yang di buat untuk salah satu toko roti terkenal di Pontianak(Roti Gembul).
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=12210778-MaulanaAdityaPratama&repo=your-repo&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=12210778-MaulanaAdityaPratama&repo=projectsi-SIPEBI-fork&theme=transparent" />
 </p>
 
 ---
