@@ -42,8 +42,8 @@
 ---
 
 ### **✨ Fun Facts:**
-- ⚡ When I'm not coding, I enjoy playing strategy games and discovering new technologies.  
-- 🌱 I believe: *"The only way to do great work is to love what you do."*  
+- ⚡ When I'm not coding, I'm sleeping and discovering new technologies.  
+- 🌱 I believe: *"Kerja, Kerja, Kerja, Tipes"*  
 
 ---
 
