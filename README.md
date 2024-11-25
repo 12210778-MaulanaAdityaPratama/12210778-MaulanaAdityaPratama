@@ -54,7 +54,7 @@
 ### **📫 Connect with Me:**
 <p align="left">
   <a href="mailto:aditya.neo5@gmail.com"><img src="https://img.shields.io/badge/Email-aditya.neo5@gmail.com-red?style=flat&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.instagram.com/servantin_13"><img src="https://img.shields.io/badge/instagram?style=flat&logo=instagram" /></a>
 </p>
 
 ---
