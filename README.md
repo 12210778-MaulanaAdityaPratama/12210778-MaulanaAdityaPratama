@@ -53,14 +53,14 @@
 
 ### **📫 Connect with Me:**
 <p align="left">
-  <a href="mailto:aditya.neo5@gmail.com"><img src="https://img.shields.io/badge/Email-aditya.neo5@gmail.com-red?style=flat&logo=gmail" /></a>
-<a href="https://www.instagram.com/servantin_13" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-servantin__13-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-
-
+  <a href="mailto:aditya.neo5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aditya.neo5@gmail.com-red?style=flat&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/servantin_13" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-servantin__13-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
+
 
 ---
 
