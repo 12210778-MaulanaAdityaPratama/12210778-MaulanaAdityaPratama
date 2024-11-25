@@ -1,5 +1,9 @@
 # <summary><strong>Hi there! 👋 I'm Maulana Aditya Pratama</strong></summary>
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8yNXEweXNzbDAwaTlmYWF3bjd5dHdsejhjeDBzb2Nyemg0dmFxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G5K2Jy1Mvy0Zq/giphy.webp" width="400" alt="Coding Gif" />
+</p>
+
 ### About Me:
 - 🌱 Lifelong learner and passionate software developer.  
 - 👨‍💻 Currently working as **Budagh Kompeni** (Freelance).  
