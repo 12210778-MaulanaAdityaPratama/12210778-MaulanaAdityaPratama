@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner with Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Aditya+Pratama;Full-Stack+Developer+%7C+Laravel+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Maulana+Aditya+Pratama;Full-Stack+Developer+%7C+Laravel+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
