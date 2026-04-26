@@ -115,14 +115,6 @@ fun_fact: "Kerja, Kerja, Kerja, Tipes 😄"
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=12210778-MaulanaAdityaPratama&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -132,9 +124,6 @@ fun_fact: "Kerja, Kerja, Kerja, Tipes 😄"
     <img alt="github-snake" src="https://raw.githubusercontent.com/12210778-MaulanaAdityaPratama/12210778-MaulanaAdityaPratama/output/github-snake-dark.svg" />
   </picture>
 </div>
-
-> 💡 *Untuk mengaktifkan animasi Snake, tambahkan [GitHub Action Snake](https://github.com/Platane/snk) di repository profil kamu.*
-
 ---
 
 ## 📫 Connect with Me
