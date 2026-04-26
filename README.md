@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Header Banner with Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Maulana+Aditya+Pratama;Full-Stack+Developer+%7C+Laravel+Enthusiast" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=true&width=800&height=60&lines=Hi+there!+%F0%9F%91%8B+I'm+Aditya+Pratama;Full-Stack+Developer+%7C+Laravel+Enthusiast;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG" />
 <br/>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJxNjE5YWFwbzZkcHdkMTBvMG5rN3Q5MjQzbjN6cmx6amtpZXAxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4u2gld3Or69i/giphy.webp" width="350" alt="Coding Gif" />
