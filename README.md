@@ -97,7 +97,7 @@ fun_fact: "Kerja, Kerja, Kerja, Tipes 😄"
 | 🛒 | [**E-Commerce Roti Gembul**](https://github.com/12210778-MaulanaAdityaPratama/roti) | Website E-Commerce untuk toko roti terkenal di Pontianak | `Laravel` |
 | 🎤 | [**Masterpiece Karaoke**](https://github.com/12210778-MaulanaAdityaPratama/karaoke) | Sistem reservasi karaoke dengan fitur booking online | `Laravel` |
 | 📱 | [**Presensi Pegawai**](https://github.com/12210778-MaulanaAdityaPratama/12210778-Presensi_Pegawai_12.4B.30) | Aplikasi mobile UI/UX untuk presensi pegawai | `Flutter` |
-| 🚚 | [**Babang Kurir**](https://github.com/12210778-MaulanaAdityaPratama/babang-kurir) | Aplikasi layanan kurir berbasis web | `Laravel` |
+| 🚚 | [**Bupati Kubu Raya**](https://github.com/12210778-MaulanaAdityaPratama/Bupati.git) | Aplikasi layanan pemerintah kabupaten kubu raya berbasis web | `Laravel` |
 | 🏠 | [**KostQ**](https://github.com/12210778-MaulanaAdityaPratama/KostQ) | Platform pencarian dan manajemen kost | `PHP` |
 | 🏥 | [**Klinik**](https://github.com/12210778-MaulanaAdityaPratama/klinik) | Sistem manajemen klinik kesehatan | `PHP` |
 | 📄 | [**Aplikasi Surat**](https://github.com/12210778-MaulanaAdityaPratama/aplikasisurat) | Sistem administrasi surat menyurat digital | `Laravel` |
