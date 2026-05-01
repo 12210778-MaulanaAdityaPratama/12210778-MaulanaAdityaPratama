@@ -94,6 +94,7 @@ fun_fact: "Kerja, Kerja, Kerja, Tipes 😄"
 | # | Project | Description | Tech |
 |:-:|---------|-------------|------|
 | 🏛️ | [**SIPEBI**](https://github.com/12210778-MaulanaAdityaPratama/projectsi-SIPEBI-fork) | Website Desa Sungai Ambangah — Proyek akhir untuk sistem informasi desa | `Laravel` |
+| 🎥 | [**Cine Vault**](https://github.com/12210778-MaulanaAdityaPratama/laravel-omdb-movie-app) | Aplikasi web pencarian film terintegrasi OMDb API dengan fitur favorit, autentikasi, dan multi-bahasa. | `Laravel` |
 | 🛒 | [**E-Commerce Roti Gembul**](https://github.com/12210778-MaulanaAdityaPratama/roti) | Website E-Commerce untuk toko roti terkenal di Pontianak | `Laravel` |
 | 🎤 | [**Masterpiece Karaoke**](https://github.com/12210778-MaulanaAdityaPratama/karaoke) | Sistem reservasi karaoke dengan fitur booking online | `Laravel` |
 | 📱 | [**Presensi Pegawai**](https://github.com/12210778-MaulanaAdityaPratama/12210778-Presensi_Pegawai_12.4B.30) | Aplikasi mobile UI/UX untuk presensi pegawai | `Flutter` |
